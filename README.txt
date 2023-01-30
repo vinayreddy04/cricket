@@ -8,3 +8,7 @@ dhoni
 sehwag
 dravid
 pant
+Bhuvi
+Ravi
+Umesh
+Siraj
